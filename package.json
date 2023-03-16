@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"error : no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnisaDwiF/Dicoding.git"
+  },
+  "author": "annisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnisaDwiF/Dicoding/issues"
+  },
+  "homepage": "https://github.com/AnnisaDwiF/Dicoding#readme"
+}
